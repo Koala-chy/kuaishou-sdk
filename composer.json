@@ -1,0 +1,21 @@
+{
+    "name": "koala/kuaishou",
+    "description": "快手PHP-SDK",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Koala\\Kuaishou\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Koala",
+            "email": "koalachy@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.4|^8.0"
+    }
+}
